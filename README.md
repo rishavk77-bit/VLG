@@ -102,24 +102,7 @@
 - **🎯 Training Accuracy**: Achieved an impressive 📈 ~95.63%.
 - **🎯 Validation Accuracy**: Reached 📊 ~98.01%, demonstrating robust model generalization.
 
----
 
-## ▶️ **How to Run**
-
-1️⃣ Clone the repository:
-   ```bash
-   git clone <repository-url>
-   ```
-2️⃣ Install the required 🔧 dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3️⃣ Launch the 📘 Jupyter Notebook:
-   ```bash
-   jupyter notebook notebook.ipynb
-   ```
-
----
 
 ## 🌟 **Vital Components**
 
